@@ -54,7 +54,7 @@ NULL
 #' }
 parsons_problem <- function(
   initial,
-  text = c("Drag from here", "Construct your solution here"),
+  text = c("Piochez ici", "Assemblez votre solution"),
   header = NULL,
   input_id,
   group_name,
